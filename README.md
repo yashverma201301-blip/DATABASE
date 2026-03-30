@@ -31,3 +31,6 @@ Payment mode analysis (COD, UPI, Debit Card, EMI)
 Monthly profit trend visualization
 Sub-category profit comparison
 Dynamic KPI cards for Amount, AOV, Quantity, and Profit
+
+6. screenshot
+   https://github.com/yashverma201301-blip/DATABASE/blob/main/Deshoard%20Power%20BI.png
